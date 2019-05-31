@@ -13,6 +13,7 @@ Optional when you have done changes to your local machine and want to sync to re
 (Help > edit custom vm options)
 # custom IntelliJ IDEA VM options
 
+```text
 -Xms1024m
 -Xmx2048m
 -XX:ReservedCodeCacheSize=240m
@@ -24,3 +25,4 @@ Optional when you have done changes to your local machine and want to sync to re
 -Djdk.http.auth.tunneling.disabledSchemes=""
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:-OmitStackTraceInFastThrow
+```
