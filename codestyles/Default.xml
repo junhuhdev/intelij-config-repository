@@ -4,6 +4,7 @@
       <option name="INDENT_SIZE" value="2" />
     </value>
   </option>
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <DB2CodeStyleSettings version="2">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
