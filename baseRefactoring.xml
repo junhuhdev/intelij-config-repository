@@ -12,6 +12,7 @@
     <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
     <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
     <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
     <option name="RENAME_VARIABLES" value="false" />
     <option name="RENAME_TESTS" value="false" />
