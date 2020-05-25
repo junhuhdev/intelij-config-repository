@@ -62,8 +62,12 @@
           <option name="url" value="https://gitlab.corp.tele2.com/smp/core/common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.corp.tele2.com:smp/worker/capi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects\core" />
+    <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
   </component>
 </application>
