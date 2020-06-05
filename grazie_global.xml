@@ -1,0 +1,11 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="PASSIVE_VOICE" />
+        <option value="ARTICLE_MISSING" />
+        <option value="CD_NN" />
+      </set>
+    </option>
+  </component>
+</application>
