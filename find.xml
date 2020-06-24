@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\capi-common\src\main\java\com\tele2\sales\common\impl\ProductStructureServiceImpl.java [capi-common]'" />
+    <option name="defaultScopeName" value="File '...\capi-common\src\main\java\com\tele2\sales\common\impl\ProductStructureServiceImpl.java [capi-common]'" />
+    <option name="SEARCH_SCOPE" value="File '...\capi-common\src\main\java\com\tele2\sales\common\impl\ProductStructureServiceImpl.java [capi-common]'" />
   </component>
 </application>
