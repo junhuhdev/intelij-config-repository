@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="CollapseSelection" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -28,8 +31,12 @@
   </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.SetDefault" />
+  <action id="CopyPaths" />
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
