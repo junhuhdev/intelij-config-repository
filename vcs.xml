@@ -102,6 +102,10 @@
           <option name="url" value="https://gitlab.corp.tele2.com/capicore/trunk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.corp.tele2.com/capicore/iframe_backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
