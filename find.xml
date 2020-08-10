@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\capi-core-domain\src\main\java\com\tele2\sales\domain\ota\OtaRequest.java [capi-core-domain]'" />
-    <option name="defaultScopeName" value="File '...\capi-core-domain\src\main\java\com\tele2\sales\domain\ota\OtaRequest.java [capi-core-domain]'" />
-    <option name="SEARCH_SCOPE" value="File '...\capi-core-domain\src\main\java\com\tele2\sales\domain\ota\OtaRequest.java [capi-core-domain]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
