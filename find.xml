@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'capi-business-parent'" />
-    <option name="defaultScopeName" value="Project 'capi-business-parent'" />
-    <option name="SEARCH_SCOPE" value="Project 'capi-business-parent'" />
+    <option name="customScope" value="File '...\capi-integration\src\main\java\com\tele2\sales\integration\api\SiebelAdapter.java [capi-integration]'" />
+    <option name="defaultScopeName" value="File '...\capi-integration\src\main\java\com\tele2\sales\integration\api\SiebelAdapter.java [capi-integration]'" />
+    <option name="SEARCH_SCOPE" value="File '...\capi-integration\src\main\java\com\tele2\sales\integration\api\SiebelAdapter.java [capi-integration]'" />
   </component>
 </application>
