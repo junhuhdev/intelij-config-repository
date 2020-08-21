@@ -156,7 +156,6 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
   </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="2">
-    <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
     <option name="INSERT_EL_WRAP" value="0" />
