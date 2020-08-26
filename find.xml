@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\impl\OboAdapterImpl.java [capi-integration]'" />
-    <option name="defaultScopeName" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\impl\OboAdapterImpl.java [capi-integration]'" />
-    <option name="SEARCH_SCOPE" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\impl\OboAdapterImpl.java [capi-integration]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
