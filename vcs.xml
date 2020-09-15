@@ -122,9 +122,13 @@
           <option name="url" value="https://github.com/apache/cxf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/incubator-dolphinscheduler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\junhuh\PrivateRepo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
