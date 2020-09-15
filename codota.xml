@@ -10,11 +10,13 @@
     <option name="isMethodCompletionsPercentageSet" value="true" />
     <option name="featureFlags">
       <map>
+        <entry key="deep-completions" value="true" />
         <entry key="java-deep-completions" value="true" />
       </map>
     </option>
     <option name="everTurnedOnFeatureFlags">
       <set>
+        <option value="deep-completions" />
         <option value="java-deep-completions" />
       </set>
     </option>
