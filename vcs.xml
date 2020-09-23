@@ -166,6 +166,10 @@
           <option name="url" value="https://github.com/piotr-swiderski/rental-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jonashackt/tutorial-soap-spring-boot-cxf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
