@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\api\Adapter.java [capi-integration]'" />
-    <option name="defaultScopeName" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\api\Adapter.java [capi-integration]'" />
-    <option name="SEARCH_SCOPE" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\api\Adapter.java [capi-integration]'" />
+    <option name="customScope" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\client\soap\siebel\configuration\SiebelConfigurationSoapClientImpl.java [capi-integration]'" />
+    <option name="defaultScopeName" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\client\soap\siebel\configuration\SiebelConfigurationSoapClientImpl.java [capi-integration]'" />
+    <option name="SEARCH_SCOPE" value="File '...\capi-integration\src\main\java\com\tele2\capi\integration\client\soap\siebel\configuration\SiebelConfigurationSoapClientImpl.java [capi-integration]'" />
   </component>
 </application>
