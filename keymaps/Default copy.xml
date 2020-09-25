@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt #10000a7" />
+    <keyboard-shortcut first-keystroke="ctrl #10000a7" />
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
@@ -80,9 +81,7 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="ctrl #10000a7" />
-  </action>
+  <action id="GotoLine" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
