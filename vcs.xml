@@ -178,6 +178,14 @@
           <option name="url" value="https://github.com/adorsys/xs2a.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.corp.tele2.com:smp/worker/siis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.corp.tele2.com:superstore4/superstore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
