@@ -27,6 +27,10 @@
     <keyboard-shortcut first-keystroke="ctrl 5" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
