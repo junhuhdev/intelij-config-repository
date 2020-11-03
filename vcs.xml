@@ -230,9 +230,13 @@
           <option name="url" value="https://github.com/Netflix/mantis" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.corp.tele2.com:smp/worker/ssms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\junhuh\PrivateRepo" />
+    <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
