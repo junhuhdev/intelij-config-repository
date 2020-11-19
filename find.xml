@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\sfls-core\src\main\java\com\tele2\orderflow\sfls\core\service\asset\AssetServiceImpl.java [sfls-core]'" />
+    <option name="defaultScopeName" value="File '...\sfls-core\src\main\java\com\tele2\orderflow\sfls\core\service\asset\AssetServiceImpl.java [sfls-core]'" />
+    <option name="SEARCH_SCOPE" value="File '...\sfls-core\src\main\java\com\tele2\orderflow\sfls\core\service\asset\AssetServiceImpl.java [sfls-core]'" />
   </component>
 </application>
