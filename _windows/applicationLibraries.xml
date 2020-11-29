@@ -1,0 +1,9 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/react-router-dom" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
