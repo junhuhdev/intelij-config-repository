@@ -238,6 +238,10 @@
           <option name="url" value="https://github.com/eventuate-tram/eventuate-tram-sagas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sizovs/unsuck-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\junhuh\PrivateRepo" />
