@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\sbos-core\src\main\java\com\tele2\orderflow\sbos\core\service\commands\groupagreement\GroupAgreementProcessAssets.java [sbos-core]'" />
-    <option name="defaultScopeName" value="File '...\sbos-core\src\main\java\com\tele2\orderflow\sbos\core\service\commands\groupagreement\GroupAgreementProcessAssets.java [sbos-core]'" />
-    <option name="SEARCH_SCOPE" value="File '...\sbos-core\src\main\java\com\tele2\orderflow\sbos\core\service\commands\groupagreement\GroupAgreementProcessAssets.java [sbos-core]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
