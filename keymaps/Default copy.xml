@@ -66,6 +66,7 @@
     <keyboard-shortcut first-keystroke="ctrl 9" />
     <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -91,6 +92,9 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoLine" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
     <mouse-shortcut keystroke="alt button1" />
@@ -101,7 +105,6 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
-    <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
