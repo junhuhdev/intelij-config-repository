@@ -105,6 +105,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />

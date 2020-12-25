@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
