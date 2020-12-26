@@ -5,7 +5,8 @@
     </value>
   </option>
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <DB2CodeStyleSettings version="2">
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -26,7 +27,8 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -47,7 +49,8 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -67,7 +70,8 @@
     <option name="VIEW_WRAP_QUERY" value="false" />
     <option name="ROUTINE_ARG_WRAP" value="0" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -99,25 +103,8 @@
     <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
     <option name="JD_INDENT_ON_CONTINUATION" value="true" />
   </JavaCodeStyleSettings>
-  <JetCodeStyleSettings>
-    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
-      <value>
-        <package name="java.util" alias="false" withSubpackages="false" />
-        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
-        <package name="io.ktor" alias="false" withSubpackages="true" />
-      </value>
-    </option>
-    <option name="PACKAGES_IMPORT_LAYOUT">
-      <value>
-        <package name="" alias="false" withSubpackages="true" />
-        <package name="java" alias="false" withSubpackages="true" />
-        <package name="javax" alias="false" withSubpackages="true" />
-        <package name="kotlin" alias="false" withSubpackages="true" />
-        <package name="" alias="true" withSubpackages="true" />
-      </value>
-    </option>
-  </JetCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -138,7 +125,8 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -158,7 +146,8 @@
     <option name="VIEW_WRAP_QUERY" value="false" />
     <option name="ROUTINE_ARG_WRAP" value="0" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
     <option name="INSERT_EL_WRAP" value="0" />
@@ -178,7 +167,8 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
     <option name="INSERT_EL_WRAP" value="0" />
@@ -198,7 +188,8 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -218,7 +209,7 @@
     <option name="VIEW_WRAP_QUERY" value="false" />
     <option name="ROUTINE_ARG_WRAP" value="0" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
+  <SqlCodeStyleSettings version="5">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -239,7 +230,8 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="INSERT_OPENING" value="0" />
     <option name="INSERT_CLOSING" value="0" />
@@ -267,6 +259,8 @@
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
