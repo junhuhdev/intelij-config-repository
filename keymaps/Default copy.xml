@@ -2,6 +2,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -10,6 +11,9 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -35,6 +39,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="ContextHelp" />
   <action id="CopyPaths" />
@@ -49,6 +57,8 @@
     <keyboard-shortcut first-keystroke="ctrl #10000d6" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -84,6 +94,12 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
@@ -94,6 +110,10 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoLine" />
+  <action id="GotoNextError" />
+  <action id="GotoNextIncompletePropertyAction" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="Maven.ReimportProject">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
@@ -131,12 +151,16 @@
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl 6" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="ctrl #10000c5" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
@@ -149,6 +173,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
+  <action id="XDebugger.SetValue" />
   <action id="hg4idea.QFold" />
   <action id="openAssertEqualsDiff" />
 </keymap>
