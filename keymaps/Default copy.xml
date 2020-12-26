@@ -47,6 +47,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
@@ -130,10 +131,6 @@
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl 6" />
   </action>
