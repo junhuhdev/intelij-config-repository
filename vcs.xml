@@ -266,9 +266,13 @@
           <option name="url" value="git@github.com:jobrunr/jobrunr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.corp.tele2.com/smp/worker/cms" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\junhuh\PrivateRepo" />
+    <option name="cloneParentDir" value="C:\Users\junhuh\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
