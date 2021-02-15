@@ -189,6 +189,9 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </PostgresCodeStyleSettings>
+  <Properties>
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <SQLiteCodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
