@@ -256,6 +256,10 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="IMP_DECLARE_CONTENT_WRAP" value="false" />
   </SybaseCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
   </XML>
