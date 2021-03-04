@@ -91,6 +91,10 @@
     <option name="VIEW_WRAP_QUERY" value="false" />
     <option name="ROUTINE_ARG_WRAP" value="0" />
   </HSQLCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
   </JSCodeStyleSettings>
@@ -263,6 +267,9 @@
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
   </XML>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="999" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
@@ -282,6 +289,9 @@
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="200" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="RIGHT_MARGIN" value="999" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="RIGHT_MARGIN" value="999" />
