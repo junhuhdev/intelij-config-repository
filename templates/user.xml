@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="lol" value="@lombok.NoArgsConstructor&#10;@lombok.AllArgsConstructor&#10;@lombok.Data&#10;@lombok.Builder" toReformat="true" toShortenFQNames="true">
+  <template name="lol" value="@lombok.NoArgsConstructor&#10;@lombok.AllArgsConstructor&#10;@lombok.Data&#10;@lombok.Builder" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
