@@ -1,8 +1,0 @@
-<application>
-  <component name="StructuralSearch">
-    <replaceConfiguration name="collectors-tolist" text="$Collectors$.toList()" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" useStaticImport="true" replacement="java.util.stream.Collectors.toList()">
-      <constraint name="__context__" within="" contains="" />
-      <constraint name="Collectors" within="" contains="" />
-    </replaceConfiguration>
-  </component>
-</application>
