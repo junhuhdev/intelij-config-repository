@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="id" value="@javax.persistence.Id&#10;@javax.persistence.Column&#10;private Long id;&#10;" toReformat="true" toShortenFQNames="true">
+  <template name="id" value="@javax.persistence.Id&#10;@javax.persistence.Column&#10;@javax.persistence.GeneratedValue(strategy = javax.persistence.GenerationType.AUTO)&#10;private Long id;&#10;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
