@@ -4,4 +4,14 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="entity" value="@Getter&#10;@Setter&#10;@Builder&#10;@AllArgsConstructor&#10;@NoArgsConstructor&#10;@javax.persistence.Table&#10;@javax.persistence.Entity" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="id" value="@javax.persistence.Id&#10;@javax.persistence.Column&#10;private Long id;&#10;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
