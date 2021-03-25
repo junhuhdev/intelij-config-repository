@@ -4,17 +4,17 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="entity" value="@Getter&#10;@Setter&#10;@Builder&#10;@AllArgsConstructor&#10;@NoArgsConstructor&#10;@javax.persistence.Table&#10;@javax.persistence.Entity" toReformat="true" toShortenFQNames="true">
+  <template name="entity" value="@Getter&#10;@Setter&#10;@Builder&#10;@AllArgsConstructor&#10;@NoArgsConstructor&#10;@javax.persistence.Table&#10;@javax.persistence.Entity" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="id" value="@javax.persistence.Id&#10;@javax.persistence.Column&#10;@javax.persistence.GeneratedValue(strategy = javax.persistence.GenerationType.AUTO)&#10;private Long id;&#10;" toReformat="true" toShortenFQNames="true">
+  <template name="id" value="@javax.persistence.Id&#10;@javax.persistence.Column&#10;@javax.persistence.GeneratedValue(strategy = javax.persistence.GenerationType.AUTO)&#10;private Long id;&#10;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="noformat" value="// @formatter:off&#10;&#10;&#10;// @formatter:on" toReformat="true" toShortenFQNames="true">
+  <template name="noformat" value="// @formatter:off&#10;&#10;&#10;// @formatter:on" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
