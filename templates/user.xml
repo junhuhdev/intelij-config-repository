@@ -40,7 +40,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="log" value="private final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger($CLAZZ$.class);" toReformat="true" toShortenFQNames="true">
+  <template name="log" value="private final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger($CLAZZ$.class);" description="" toReformat="true" toShortenFQNames="true">
     <variable name="CLAZZ" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
