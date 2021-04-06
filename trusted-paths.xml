@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/PrivateRepo" />
         <option value="$USER_HOME$/IdeaProjects" />
+        <option value="$USER_HOME$/comhemrepo" />
       </list>
     </option>
   </component>
