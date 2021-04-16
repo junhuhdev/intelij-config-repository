@@ -46,7 +46,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="api" value="@lombok.extern.slf4j.Slf4j&#10;@lombok.RequiredArgsConstructor&#10;@org.springframework.web.bind.annotation.RestController&#10;@org.springframework.web.bind.annotation.RequestMapping(value = &quot;/api/&quot;)" toReformat="true" toShortenFQNames="true">
+  <template name="api" value="@lombok.extern.slf4j.Slf4j&#10;@lombok.RequiredArgsConstructor&#10;@org.springframework.transaction.annotation.Transactional&#10;@org.springframework.web.bind.annotation.RestController&#10;@org.springframework.web.bind.annotation.RequestMapping(value = &quot;/api/&quot;)" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
