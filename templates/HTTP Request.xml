@@ -46,4 +46,28 @@
     <variable name="FILE_PATH" expression="" defaultValue="&quot;./relative/path/to/local_file.txt&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="var" value="$COMMA_BEFORE$&quot;$VAR_NAME$&quot;: &quot;$VAR_VALUE$&quot;$COMMA_AFTER$" description="Environment variable" toReformat="true" toShortenFQNames="false">
+    <variable name="COMMA_BEFORE" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <variable name="VAR_NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="COMMA_AFTER" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="env" value="$COMMA_BEFORE$&quot;$ENV_NAME$&quot;: {&#10;  &quot;$VAR_NAME$&quot;: &quot;$VAR_VALUE$&quot;&#10;}$COMMA_AFTER$" description="HTTP Client Environment" toReformat="true" toShortenFQNames="false">
+    <variable name="COMMA_BEFORE" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <variable name="ENV_NAME" expression="" defaultValue="&quot;dev&quot;" alwaysStopAt="true" />
+    <variable name="VAR_NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="COMMA_AFTER" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="ssl" value="$COMMA_BEFORE$&quot;SSLConfiguration&quot;: {&#10;  &quot;clientCertificate&quot;: &quot;$CERT_PATH$&quot;,&#10;  &quot;clientCertificateKey&quot;: &quot;$KEY_PATH$&quot;,&#10;  &quot;verifyHostCertificate&quot;: $VERIFY$,&#10;  &quot;hasCertificatePassphrase&quot;: $PASS$&#10;}$COMMA_AFTER$" description="SSL Configuration" toReformat="true" toShortenFQNames="false">
+    <variable name="COMMA_BEFORE" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <variable name="CERT_PATH" expression="complete()" defaultValue="file.pem" alwaysStopAt="true" />
+    <variable name="KEY_PATH" expression="complete()" defaultValue="file.key" alwaysStopAt="true" />
+    <variable name="VERIFY" expression="complete()" defaultValue="true" alwaysStopAt="true" />
+    <variable name="PASS" expression="complete()" defaultValue="false" alwaysStopAt="true" />
+    <variable name="COMMA_AFTER" expression="jsonAddComma()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
 </templateSet>
