@@ -46,12 +46,12 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="api" value="@lombok.extern.slf4j.Slf4j&#10;@lombok.RequiredArgsConstructor&#10;@org.springframework.transaction.annotation.Transactional&#10;@org.springframework.web.bind.annotation.RestController&#10;@org.springframework.web.bind.annotation.RequestMapping(value = &quot;/api/&quot;)" toReformat="true" toShortenFQNames="true">
+  <template name="api" value="@lombok.extern.slf4j.Slf4j&#10;@lombok.RequiredArgsConstructor&#10;@org.springframework.transaction.annotation.Transactional&#10;@org.springframework.web.bind.annotation.RestController&#10;@org.springframework.web.bind.annotation.RequestMapping(value = &quot;/api/&quot;)" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="post" value="@org.springframework.web.bind.annotation.PostMapping(&quot;/&quot;)&#10;&#9;public org.springframework.http.ResponseEntity&lt;?&gt; post() {&#10;&#10;&#9;&#9;return org.springframework.http.ResponseEntity.ok().build();&#10;&#9;}" toReformat="true" toShortenFQNames="true">
+  <template name="post" value="@org.springframework.web.bind.annotation.PostMapping(&quot;/&quot;)&#10;&#9;public org.springframework.http.ResponseEntity&lt;?&gt; post() {&#10;&#10;&#9;&#9;return org.springframework.http.ResponseEntity.ok().build();&#10;&#9;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
