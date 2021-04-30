@@ -753,7 +753,9 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
@@ -768,11 +770,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="Rust">
-        <configuration>
-          <option name="lldbPath" value="C:\Users\junhuh\AppData\Local\JetBrains\IntelliJIdea2020.3\intellij-rust\lldb" />
         </configuration>
       </debugger>
     </debuggers>
