@@ -286,6 +286,7 @@
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
@@ -315,6 +316,13 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="RIGHT_MARGIN" value="999" />
