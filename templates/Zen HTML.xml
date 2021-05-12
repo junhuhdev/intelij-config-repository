@@ -2,23 +2,4 @@
   <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="a" value="&lt;a href=&quot;$VAR0$&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;...&quot;&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="col" value="&lt;col&gt;" description="&lt;col&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="style" value="&lt;style&gt;$END$&lt;/style&gt;" description="&lt;style&gt;...&lt;/style&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="div" value="&lt;div&gt;$END$&lt;/div&gt;" description="&lt;div&gt;...&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="span" value="&lt;span&gt;$END$&lt;/span&gt;" description="&lt;span&gt;...&lt;/span&gt;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="b" value="&lt;b&gt;$END$&lt;/b&gt;" description="&lt;b&gt;...&lt;/b&gt;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
 </templateSet>
