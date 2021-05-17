@@ -293,6 +293,7 @@
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_KEEP_BLANK_LINES" value="0" />
   </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
