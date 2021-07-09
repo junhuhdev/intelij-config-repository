@@ -19,7 +19,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="one" value="@javax.persistence.ManyToOne(fetch = javax.persistence.FetchType.LAZY)&#10;@javax.persistence.JoinColumn(name = &quot;$VAR$_id&quot;)&#10;@com.fasterxml.jackson.annotation.JsonIgnore&#10;private $TYPE$ $VAR2$;" description="" toReformat="true" toShortenFQNames="true">
+  <template name="manytoone" value="@javax.persistence.ManyToOne(fetch = javax.persistence.FetchType.LAZY)&#10;@javax.persistence.JoinColumn(name = &quot;$VAR$_id&quot;)&#10;@com.fasterxml.jackson.annotation.JsonIgnore&#10;private $TYPE$ $VAR2$;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="suggestVariableName()" defaultValue="" alwaysStopAt="false" />
     <variable name="VAR" expression="escapeString(VAR2)" defaultValue="" alwaysStopAt="false" />
@@ -52,6 +52,13 @@
     </context>
   </template>
   <template name="post" value="@org.springframework.web.bind.annotation.PostMapping(&quot;/&quot;)&#10;&#9;public org.springframework.http.ResponseEntity&lt;?&gt; post() {&#10;&#10;&#9;&#9;return org.springframework.http.ResponseEntity.ok().build();&#10;&#9;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="one" value="@javax.persistence.OneToOne(fetch = javax.persistence.FetchType.LAZY)&#10;@javax.persistence.MapsId&#10;@com.fasterxml.jackson.annotation.JsonIgnore&#10;private $TYPE$ $VAR2$;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="suggestVariableName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
